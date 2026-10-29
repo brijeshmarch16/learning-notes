@@ -1,2 +1,1 @@
-# learning-notes
-My Learning Notes
+# Learning Notes
